@@ -1,0 +1,7 @@
+p {
+    font-family: Arial, serif, sans-serif;
+}
+.table, th, td {
+    border: solid;
+    background-color: rgb(215, 250, 248);
+}
